@@ -4,4 +4,7 @@ end
 def using_unshift
 end
 
-def using
+def using_pop
+end 
+
+def 
